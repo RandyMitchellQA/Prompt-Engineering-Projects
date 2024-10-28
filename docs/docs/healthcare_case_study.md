@@ -6,3 +6,10 @@ In this case study, I explore how AI can assist doctors in diagnosing diseases b
 ## Initial Prompt
 The initial prompt I tested was:
 
+How can AI help doctors diagnose diseases more accurately?
+
+## Output and Analysis
+The AI generated a generic response. To get more specific results, I refined the prompt by asking about **medical imaging**.
+
+## Refined Prompt
+After iterating on the initial prompt, I refined it to:
